@@ -9,6 +9,12 @@ output:
 bibliography: kinship.bib
 ---
 
+```{css, echo=FALSE}
+a[href*="github.com"] {
+  display: none !important;
+}
+```
+
 ```{r setup, include=FALSE}
 # General set up, change if message and warnings should be included
 knitr::opts_chunk$set(message = FALSE, 
