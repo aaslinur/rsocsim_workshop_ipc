@@ -2,12 +2,11 @@
 title: "Demographic microsimulations in R using SOCSIM: Modelling population and kinship dynamics"
 date: "Pre-conference workshop for the 30th International Population Conference; Brisbane, Australia, 13 July 2025"
 output:
-  html_document:
+  # html_document: default
+  github_document:
+    pandoc_args: --webtex
     toc: true
     toc_depth: 3
-    number_sections: true
-    theme: flatly
-    highlight: tango
 bibliography: kinship.bib
 ---
 
