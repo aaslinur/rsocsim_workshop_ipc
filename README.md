@@ -1,6 +1,7 @@
 # Demographic microsimulations in R using SOCSIM: Modelling population and kinship dynamics
 Pre-conference workshop for the 30th International Population Conference
 Brisbane, Australia, 13 July 2025
+Liliana P. Calderón-Bernal (Max Planck Institute for Demographic Research), Aasli Abdi Nur (University of Oxford), Ridhi Kashyap (University of Oxford) 
 
 - [1. Setup](#1-setup)
 - [2. How to set-up, run and verify a microsimulation in
