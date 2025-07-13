@@ -65,7 +65,7 @@ et al. 2022).
 We recommend that you go through point 1 of this tutorial **before** the
 start of the workshop. If you have any questions/difficulties with the
 installation of `rsocsim`, please get in touch with the software
-developet [Tom Theile](mailto:theile@demogr.mpg.de)
+developer [Tom Theile](mailto:theile@demogr.mpg.de).
 
 <img src="logo.png" align="right" width="200" />
 
@@ -77,7 +77,7 @@ Install the development version of `rsocsim` from GitHub
 have already installed the package, please uninstall and reinstall it.
 You can install `rsocsim` from source, which requires a compiler, or
 from a binary package. Choose the option that suits you best. For this
-workshop, we will use version 1.5.9 of `rsocsim`
+workshop, we will use version 1.5.9 of `rsocsim`.
 
 ### 1.1.1 Installation from source (requires a compiler)
 
